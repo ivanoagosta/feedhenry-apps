@@ -1,0 +1,21 @@
+/**
+ * pages are invisible by default.
+ */
+
+body{
+	padding:0 20px 0 20px;
+}
+.page {
+	display: none;
+}
+/**
+ * 	pages are visible once activated
+ */
+.page.active {
+	display: block;
+}
+
+#map_div{
+	width:100%;
+	height:280px;
+}

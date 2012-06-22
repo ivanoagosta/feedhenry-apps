@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="it.atnis.ivano.agosta.hello.world" version="1.0" width="320" height="480" start="index.html">
+<title>Hello World (apps.feedhenry.com)</title>
+<description>Hello World apps. My first app!</description>
+<author name="" email="" url=""></author>
+<license></license>
+</widget>
